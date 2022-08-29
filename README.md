@@ -12,4 +12,4 @@
 3. Doubble click the highlighted file, and once it opens, right click and copy the folder showing
 4. Then paste the copied folder into your downloads folder on the left 
 5. Finally, click on the copied folder in your downloads, and doubble click the index.html file
-6. Thats it! You also might want to bookmark the index file for easier access
+6. Thats it! You also might want to bookmark the index.html file for easier access
